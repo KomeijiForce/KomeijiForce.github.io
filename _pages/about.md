@@ -17,7 +17,7 @@ My current focus is on the interaction between large language models (LLMs) with
 1. (LLM-aided) Fancier Embedders: How to build embedders with LLMs to implment functions more than semantic similarity evaluation?
 2. LLMs as pitfalls detector: Are there undiscovered pitfalls in traditional embedders that can be detected by LLMs?
 3. Potential of Embedders: What are some undiscovered tasks that embeddings are much more efficent/effective than language models?
-4. LLM-oriented Retreival Augmentation: What kind of embeddings for retrievers are prefered by LLMs, still by textual similarity?
+4. LLM-oriented Retreival Augmentation: What kinds of embeddings for retrievers are prefered by LLMs, still by textual similarity?
 
 Collaboration
 ------
