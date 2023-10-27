@@ -12,12 +12,12 @@ I am a second Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https:/
 
 Research Interest
 ------
-My current focus is on the interaction between frozen large language models (LLMs) and external resources, including plain texts, annotated datasets, task-specific models... Followings are examples of questions I am interested in:
+My current focus is on the interaction between large language models (LLMs) with word/span/text embeddings. Followings are examples of questions I am interested in:
 
-1. Are LLMs more efficient guiders than humans to teach smaller models on new tasks?
-2. How to guide LLMs to react following human expectation according to an annotated dataset?
-3. How to make LLMS strictly follow rules in specific domains, especially medical?
-4. Do LLMs develop abilities that do not explicitly appear in the training corpus? If so, how?
+1. (LLM-aided) Fancier Embedders: How to build embedders with LLMs to implment functions more than semantic similarity evaluation?
+2. LLMs as pitfalls detector: Are there undiscovered pitfalls in traditional embedders that can be detected by LLMs?
+3. Potential of Embedders: What are some undiscovered tasks that embeddings are much more efficent/effective than language models?
+4. LLM-oriented Retreival Augmentation: What kind of embeddings for retrievers are prefered by LLMs, still by textual similarity?
 
 Collaboration
 ------
