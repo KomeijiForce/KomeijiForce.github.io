@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). Before Ph.D. I got my B.S. degree in Computer Science at SJTU.
+I am a second Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). Before Ph.D. I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 Research Interest
 ------
@@ -18,6 +18,10 @@ My current focus is on the interaction between large language models (LLMs) with
 2. LLMs as pitfalls detector: Are there undiscovered pitfalls in traditional embedders that can be detected by LLMs?
 3. Potential of Embedders: What are some undiscovered tasks that embeddings are much more efficent/effective than language models?
 4. LLM-oriented Retreival Augmentation: What kinds of embeddings for retrievers are prefered by LLMs, still by textual similarity?
+
+Links
+------
+[My Huggingface Repo](https://huggingface.co/KomeijiForce)
 
 Collaboration
 ------
