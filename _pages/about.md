@@ -17,7 +17,7 @@ My current focus is on personalized or persona-driven LLMs for usage with minima
 
 ### Personalized LLM
 
-1. Personalized Data Synthesis: How to synthesize user-centric data that can be used to instruction-tune LLMs to understand user demands and perform different jobs? ([CoTAM](https://arxiv.org/abs/2307.07099), [Incubator](https://arxiv.org/abs/2404.10877))
+1. Personalized Data Synthesis: How to synthesize user-centric data that can be used to instruction-tune LLMs to understand user demands and perform different jobs? ([X-NER](https://aclanthology.org/2023.findings-emnlp.908/), [CoTAM](https://arxiv.org/abs/2307.07099), [Incubator](https://arxiv.org/abs/2404.10877))
 2. Meta-learning: How to develop intermediate checkpoints well adapted to a large ground of downstream tasks? ([MetaIE](https://arxiv.org/abs/2404.00457))
 3. Efficient Representation: How to use LLMs to produce representations (e.g., Text Embeddings) for more efficient inference? ([InBedder](https://arxiv.org/abs/2402.09642))
 
