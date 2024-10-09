@@ -12,18 +12,21 @@ I am a second-year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](ht
 
 Research Interest
 ------
-My current focus is on personalized or persona-driven LLMs for usage with minimal effort. The following are examples of questions I am interested in:
 
+### Minimal Supervision: Building a system with minimal user input (based on LLM)
 
-### Personalized LLM
+1. Representation-based ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/))
+2. Generator (LLM)-based ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877))
+3. Hybrid ([TextGraft@EMNLP2024](https://arxiv.org/abs/2406.11115))
 
-1. Personalized Data Synthesis (Controllable Generation): How to synthesize user-centric data that can be used to instruction-tune LLMs to understand user demands and perform different jobs? ([X-NER](https://aclanthology.org/2023.findings-emnlp.908/), [CoTAM](https://aclanthology.org/2024.findings-acl.1/), [Incubator](https://arxiv.org/abs/2404.10877), [Text Grafting](https://arxiv.org/abs/2406.11115))
-2. Meta-learning: How to develop intermediate checkpoints well adapted to a large ground of downstream tasks? ([MetaIE](https://arxiv.org/abs/2404.00457))
-3. Efficient Representation: How to use LLMs to produce representations (e.g., Text Embeddings) for more efficient inference? ([InBedder](https://aclanthology.org/2024.acl-long.27/))
+### Language Modeling: Understanding how LLM solves problems by next token prediction.
 
-### Persona-driven LLM
+1. Generative Rerepresentation ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
+2. View LM as a retriever ([ICN](https://arxiv.org/abs/2410.02284))
 
-1. How can we customize LLMs based on a large number of persona statements while still maintaining the response quality? ([APC](https://arxiv.org/abs/2405.07726))
+### Role-playing: Learn LLMs to follow persona statements to interact with users.
+
+1. Fine-granularize role-playing faithfulness ([APC@NeurIPS2024](https://arxiv.org/abs/2405.07726))
 
 Links
 ------
