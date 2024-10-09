@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). Before my Ph.D., I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
+I am a 3rd year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 Research Interest
 ------
@@ -28,10 +28,10 @@ Research Interest
 
 1. Fine-granularize role-playing faithfulness ([APC@NeurIPS2024](https://arxiv.org/abs/2405.07726))
 
-Links
+MISC
 ------
 [My Huggingface Repo](https://huggingface.co/KomeijiForce)
 
 Collaboration
 ------
-I am open to any type of collaboration! As long as you have the passion, I would not mind to support you from the very beginning! Please feel free to contact me via my email! :-)
+I am open to any type of collaboration! As long as you have the passion, I would not mind to support you from the very beginning! Please feel free to contact me via email! :-)
