@@ -30,6 +30,7 @@ Research Interest
 
 MISC
 ------
+![image](https://github.com/user-attachments/assets/b94ac6b9-4ae4-433b-b090-0d7eb6c8166b)
 [My Huggingface Repo](https://huggingface.co/KomeijiForce)
 
 Collaboration
