@@ -13,6 +13,8 @@ I am a 3rd year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https
 Research Interest
 ------
 
+Overall, the 3 major things I care about in modern NLP systems are **Diversity**, **Generalizability**, and **Granularity**.
+
 ### Minimal Supervision: Building a system with minimal user input (based on LLM)
 
 1. Representation-based ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/))
@@ -35,4 +37,4 @@ MISC
 
 Collaboration
 ------
-I am open to any type of collaboration! As long as you have the passion, I would not mind to support you from the very beginning! Please feel free to contact me via email! :-)
+I am open to any type of collaboration! As long as you have the passion, I would not mind to support you from the very beginning! Please feel free to contact me via email! :-) **(Out of Bandwidth until 2025 March)**
