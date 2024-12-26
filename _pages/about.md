@@ -13,22 +13,21 @@ I am a 3rd year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https
 Research Interest
 ------
 
-Overall, the 3 major things I care about in modern NLP systems are **Diversity**, **Generalizability**, and **Granularity**.
+My research interests are knowledge discovery, parameterization, and generation of large language models. I aim to build **knowledgeable** LLMs with **Diversity**, **Generalizability**, and **Fine-granularity**. 
 
-### Minimal Supervision: Building a system with minimal user input (based on LLM)
+### Discovery: Mining useful knowledge (texts/spans) with minimal supervision
 
-1. Representation-based ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/))
-2. Generator (LLM)-based ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877))
-3. Hybrid ([TextGraft@EMNLP2024](https://arxiv.org/abs/2406.11115))
+1. Mining ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877), [TextGraft@EMNLP2024](https://arxiv.org/abs/2406.11115))
+2. Extraction: ([X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/), [NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [MetaIE](https://arxiv.org/abs/2404.00457))
+3. Text Representation: ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
 
-### Language Modeling: Understanding how LLM solves problems by next token prediction.
+### Parameterization: Understanding the limitation of LLMs in knowledge memorization/generalization.
 
-1. Generative Rerepresentation ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
-2. View LM as a retriever ([ICN](https://arxiv.org/abs/2410.02284))
+1. The diversity issue caused by unembedding parameters in LLMs ([ICN](https://arxiv.org/abs/2410.02284))
 
-### Role-playing: Learn LLMs to follow persona statements to interact with users.
+### Generation: Learn LLMs to perform diverse open-ended generation following massive constraints.
 
-1. Fine-granularize role-playing faithfulness ([APC@NeurIPS2024](https://arxiv.org/abs/2405.07726))
+1. Fine-granularize role-playing faithfulness under massive constraints ([APC@NeurIPS2024](https://arxiv.org/abs/2405.07726))
 
 MISC
 ------
