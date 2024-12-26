@@ -13,7 +13,8 @@ I am a 3rd year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https
 Research Interest
 ------
 
-My research interests are knowledge discovery, parameterization, and generation of large language models. I aim to build **knowledgeable** LLMs with **Diversity**, **Generalizability**, and **Fine-granularity**. 
+My research interests are knowledge discovery, parameterization, and generation of large language models. I aim to build **knowledgeable** LLMs (especially as experts in unique domains) with **Diversity**, **Generalizability**, and **Fine-granularity**.
+
 
 ### Discovery: Mining useful knowledge (texts/spans) with minimal supervision
 
