@@ -18,7 +18,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 
 ### Discovery: Mining useful knowledge (texts/spans) with minimal supervision
 
-1. Mining ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877), [TextGraft@EMNLP2024](https://arxiv.org/abs/2406.11115))
+1. Mining: ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877), [TextGraft@EMNLP2024](https://arxiv.org/abs/2406.11115))
 2. Extraction: ([X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/), [NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [MetaIE](https://arxiv.org/abs/2404.00457))
 3. Text Representation: ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
 
