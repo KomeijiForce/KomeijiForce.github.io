@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at UCSD, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
+I am a 3rd year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 Research Interest
 ------
@@ -50,4 +50,14 @@ MISC
 
 Collaboration
 ------
-I am open to any type of collaboration! As long as you have the passion, I would not mind to support you from the very beginning! Please feel free to contact me via email! :-) **(Out of Bandwidth until 2025 March)**
+I am open to any type of collaboration! As long as you have the passion, I would not mind supporting you from the very beginning! Please feel free to contact me via email! :-) I offer 3 levels of collaboration:
+1. Implementation-driven. You will be given a promising but not so impactful idea, which generally derives from the massive experiments in my previous exploration. Your task is to implement and systematically verify this idea and extend it to some degree. I will hand on to guide you with the experiment details.
+2. Exploration-driven. You will be given an intuitively promising (but maybe not) idea on important topics, which is my hypothesis derived from the conclusion of my previous works. Your task is to further develop this insight to reach the true answer under the surface results. There is no promise that we can make it a publication with directly the original idea but I am confident we will have some interesting results to publish. I will assume you to be proficient in basic research skills if you select this level. I will devote more time to discussing with you the explanation of the results and potential next steps to move to.
+3. High-level. I will share my high-level insight into the questions mentioned on this page and let you lead the project. There is no guarantee of an immediate solution and my role is only as a collaborator in comparison with the guiding responsibility in the upper two levels.
+
+- For communication efficiency, I only accept **in-person** collaboration, so make sure that you will be in San Diego.
+- Level 1 is good for beginners. No professional publication experience is required but you are encouraged to have background knowledge, coding ability, and most importantly, the love to explore the **truly unknown**.
+- Level 2 requires a leading project experience resulting in a top conference publication-level paper. Make sure you include the link to your paper in the email and I will check its relevance to the collaboration topic. Generally, the conclusion will be built based on the **real results** rather than the initial intuition.
+- Level 3 has no hard requirements. But such collaboration can hardly be built only by an email in common sense.
+
+Please email ```lepeng@ucsd.edu``` if you are interested in a collaboration with your CV and supplemental resources mentioned above
