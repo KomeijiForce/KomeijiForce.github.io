@@ -32,11 +32,16 @@ My research interests are knowledge discovery, parameterization, and generation 
 
 Specific Questions (Keep Updating)
 ------
-The following lists the specific small questions I want to answer in the future years:
-- \[Diversity\] How can we extract as much knowledge (might be as simple as "List all the mammals") as possible from LMs? How can we know we have enumerated all the knowledge known by the LMs? Also, LMs have a bias ([ICN](https://arxiv.org/abs/2410.02284)) caused by their representative nature, how can we overcome this?
-- \[Generalization\] How do the magical abilities emerge inside the LMs? Is it a sudden comprehension or accumulation of seen input contexts? LMs are known to struggle with composing knowledge, why this seems not to be an issue for its application? Is most daily usage covered by the LM's memorization so generalization is not necessary for its deployment? Can we systemically design a pipeline based on all learned data to generate questions that an LLM will never be able to answer?
-- \[Memorization\] LMs are proud of their memorization ability of seen data, which is found to be limited in the multiple-answer case ([ICN](https://arxiv.org/abs/2410.02284)). Also, it cannot be denied that LMs can make mistakes on seen questions. Can this be all attributed to forgetting? Or is this an architectural issue in LM's memorization of knowledge?
-- \[Fine-granularity\] LMs in deployment require following lots of constraints, such as system prompt and personal preference. Are current LMs able to follow millions of constraints assigned to them? If not, how can we improve this through data, model architecture, or learning paradigm?
+The following lists the specific questions I want to answer in the future years:
+- **\[Diversity\]** How can we extract as much knowledge (might be as simple as "List all the mammals") as possible from LMs? How can we know we have enumerated all the knowledge known by the LMs? Also, LMs have a bias ([ICN](https://arxiv.org/abs/2410.02284)) caused by their representative nature, how can we overcome this?
+- **\[Generalization\]** How do the magical abilities emerge inside the LMs? Is it a sudden comprehension or accumulation of seen input contexts? LMs are known to struggle with composing knowledge, why this seems not to be an issue for its application? Is most daily usage covered by the LM's memorization so generalization is not necessary for its deployment? Can we systemically design a pipeline based on all learned data to generate questions that an LLM will never be able to answer?
+- **\[Memorization\]** LMs are proud of their memorization ability of seen data, which is found to be limited in the multiple-answer case ([ICN](https://arxiv.org/abs/2410.02284)). Also, it cannot be denied that LMs can make mistakes on seen questions. Can this be all attributed to forgetting? Or is this an architectural issue in LM's memorization of knowledge?
+- **\[Fine-granularity\]** LMs in deployment require following lots of constraints, such as system prompt and personal preference. Are current LMs able to follow millions of constraints assigned to them? If not, how can we improve this through data, model architecture, or learning paradigm?
+
+Specific Applications (Keep Updating)
+------
+While LMs are blamed for having so many issues, no one can deny their automation of knowledge discovery, the following lists some applications of LMs:
+- **\[Automatic Knowledge Mining\]** There are generally three ways for LMs to mine knowledge. (1) Directly fine-tuned the knowledge base and take questions from the users. (2) Iterate the knowledge base and summarize the potential knowledge inside each instance. (3) Distill itself into smaller models to more efficiently interact with large-scale data [Incubator@EMNLP2024](https://arxiv.org/abs/2404.10877). From my viewpoint, (3) is inevitable for efficient knowledge mining as we don't want to ask LMs "Is this instance a positive movie review" for each instance. The distilled models can be viewed as tools for LMs to use for knowledge mining, which requires the tool-using skills of LMs. Can we automate such an automatic knowledge mining system based on a single LM/collaboration of LMs?
 
 MISC
 ------
