@@ -62,6 +62,7 @@ I am open to any type of collaboration! As long as you have the passion, I would
 3. **High-level.** I will share my high-level insight into the questions mentioned on this page and let you lead the project. There is no guarantee of an immediate solution and my role is only as a collaborator in comparison with the guiding responsibility in the upper two levels.
 
 - For communication efficiency, I only accept **in-person** collaboration, so make sure that you will be in San Diego.
+- Generally, you will lead a project rather than being a co-author.
 - We will only submit to the 6 top NLP/ML conferences. **(ACL/EMNLP/NAACL/NeurIPS/ICLR/ICML)**
 - Level 1 is good for beginners. No professional publication experience is required but you are encouraged to have background knowledge, coding ability, and most importantly, the love to explore the **truly unknown**.
 - Level 2 requires a leading project experience resulting in a top conference publication-level paper. Make sure you include the link to your paper in the email and I will check its relevance to the collaboration topic. Generally, the conclusion will be built based on the **real results** rather than the initial intuition.
