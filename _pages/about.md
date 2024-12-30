@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Letian's Academic Homepage ~ Be of good cheer!"
+title: "Letian's Academic Homepage ~ Here begins my voyage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
