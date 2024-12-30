@@ -32,8 +32,11 @@ My research interests are knowledge discovery, parameterization, and generation 
 
 Overlapped Fields
 ------
+
 **Discovery:** Text Mining, Information Extraction, Information Retrieval, Text Clustering, Data Augmentation, Data Synthesis, Tool Use
+
 **Parameterization:** Representation Interpretation, Knowledge Composition, Knowledge Editing, Catastrophic Forgetting, Model Unlearning
+
 **Generation:** Diverse Decoding, Controllable Generation, Multiple Objective Alignment, Evaluation Metric, Long Context Understanding
 
 Specific Questions (Keep Updating)
