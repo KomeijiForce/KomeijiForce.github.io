@@ -73,4 +73,6 @@ I am open to any type of collaboration! As long as you have the passion, I would
 
 Please email ```lepeng@ucsd.edu``` if you are interested in a collaboration with your CV and supplemental resources mentioned above
 
+<div style="width: 300px; height: 200px; border: 1px solid #ccc;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mn_UJ37oAc-Rp1wrfDbwW3-tEq2pnMNgtE-hbbNFsy4&cl=ffffff&w=a"></script>
+</div>
