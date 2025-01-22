@@ -24,7 +24,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 
 ### Parameterization: Understanding the limitation of LLMs in knowledge memorization/generalization.
 
-1. The diversity issue caused by unembedding parameters in LLMs ([ICN](https://arxiv.org/abs/2410.02284))
+1. The diversity issue caused by unembedding parameters in LLMs ([ICN@ICLR2025](https://arxiv.org/abs/2410.02284))
 
 ### Generation: Learn LLMs to perform diverse open-ended generation following massive constraints.
 
