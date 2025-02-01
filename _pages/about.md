@@ -22,7 +22,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 2. Span Extraction: ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/), [MetaIE](https://arxiv.org/abs/2404.00457))
 3. Text Representation: ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
 
-### Parameterization: Understanding the limitation of LLMs in knowledge memorization/generalization.
+### Parameterization (2025 Focus): Understanding LLM's mechanism in knowledge memorization/generalization. 
 
 1. The diversity issue caused by unembedding parameters in LLMs ([ICN@ICLR2025](https://arxiv.org/abs/2410.02284))
 
