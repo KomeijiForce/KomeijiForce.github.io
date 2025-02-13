@@ -4,4 +4,4 @@ collection: publications
 date: 2023-12-06
 venue: 'EMNLP2023 (Findings)'
 ---
-Letian Peng, Zihan Wang, Jingbo Shang
+Authors: **Letian Peng**, Zihan Wang, Jingbo Shang
