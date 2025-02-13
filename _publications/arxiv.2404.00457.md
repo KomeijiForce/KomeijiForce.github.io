@@ -5,4 +5,4 @@ venue: 'ArXiv Preprint'
 date: 2024-3-30
 paperurl: 'https://arxiv.org/pdf/2404.00457.pdf'
 ---
-Letian Peng, Zilong Wang, Feng Yao, Zihan Wang, Jingbo Shang
+Authors: **Letian Peng**, Zilong Wang, Feng Yao, Zihan Wang, Jingbo Shang
