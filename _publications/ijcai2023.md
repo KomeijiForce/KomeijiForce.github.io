@@ -5,4 +5,4 @@ date: 2023-08-18
 venue: 'IJCAI'
 paperurl: 'https://www.ijcai.org/proceedings/2023/0570.pdf'
 ---
-Zuchao Li, Xingyi Guo, Letian Peng, Lefei Zhang, Hai Zhao
+Authors: Zuchao Li, Xingyi Guo, **Letian Peng**, Lefei Zhang, Hai Zhao
