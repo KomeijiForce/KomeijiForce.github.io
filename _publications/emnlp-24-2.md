@@ -7,4 +7,4 @@ paperurl: 'https://aclanthology.org/2024.emnlp-main.219/'
 header:
   teaser: "grafting_image.png"
 ---
-Letian Peng, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang
+Authors: **Letian Peng**, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang
