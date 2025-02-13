@@ -7,4 +7,4 @@ paperurl: 'https://aclanthology.org/2024.emnlp-main.220/'
 header:
   teaser: "incubator_image.png"
 ---
-Letian Peng, Zilong Wang, Jingbo Shang
+Authors: **Letian Peng**, Zilong Wang, Jingbo Shang
