@@ -5,4 +5,4 @@ venue: 'ACL 2024'
 date: 2024-08-11
 paperurl: 'https://arxiv.org/pdf/2404.07382.pdf'
 ---
-Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner, Jingbo Shang
+Authors: Chenyang An, Zhibo Chen, Qihao Ye, Emily First, **Letian Peng**, Jiayun Zhang, Zihan Wang, Sorin Lerner, Jingbo Shang
