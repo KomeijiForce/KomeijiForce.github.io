@@ -5,4 +5,4 @@ venue: 'ICLR2025'
 date: 2025-04-24
 paperurl: 'https://arxiv.org/pdf/2410.02284.pdf'
 ---
-Letian Peng, Chenyang An, Jingbo Shang
+Authors: **Letian Peng**, Chenyang An, Jingbo Shang
