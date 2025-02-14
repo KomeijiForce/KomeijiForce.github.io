@@ -10,6 +10,10 @@ redirect_from:
 
 I am a 3rd year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
+**2023-2024:** I worked on building NLP systems with extremely weak signals from humans with collaboration from LLMs (Knowledge Discovery).
+
+**2025:** I am working on unveiling the mechanisms behind LLM's memorization, diversity, generalization, and hallucination (Knowledge Parameterization).
+
 Research Interest
 ------
 
