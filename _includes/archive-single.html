@@ -12,6 +12,20 @@
   {% assign title = post.title %}
 {% endif %}
 
+<head>
+  <style>
+    .rounded-badge {
+      display: inline-block;
+      background-color: #007BFF; /* 蓝色背景 */
+      color: #fff;               /* 白色文字 */
+      padding: 4px 10px;         /* 内边距 */
+      border-radius: 12px;       /* 圆角 */
+      font-weight: bold;         /* 加粗 */
+      margin-right: 5px;         /* 右边距 */
+    }
+  </style>
+</head>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -41,7 +55,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <b>{{ post.venue }}</b>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <span class="rounded-badge">{{ post.venue }}</span>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
