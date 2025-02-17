@@ -7,4 +7,5 @@ paperurl: 'https://aclanthology.org/2024.emnlp-main.219/'
 header:
   teaser: "grafting_image.png"
 ---
-Authors: **Letian Peng**, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang
+![grafting_implementation](https://github.com/user-attachments/assets/c82315ed-abec-44c8-8488-24538407351c)
+Authors: **Letian Peng**, Yi Gu, Chengyu Dong, Zihan Wang, Jingbo Shang ・[[Github]](https://github.com/KomeijiForce/TextGrafting)
