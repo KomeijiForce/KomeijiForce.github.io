@@ -35,7 +35,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 
 1. Fine-granularize role-playing faithfulness under massive constraints ([APC@NeurIPS2024](https://neurips.cc/virtual/2024/poster/94451))
 
-### Paradigm: Efficient ways to structure knowledge inside models for specific usage.
+### Paradigm: Efficient learning objectives to structure knowledge inside models for specific usage.
 
 1. Convert next token prediction to extraction for IE pre-training ([Cuckoo](https://arxiv.org/abs/2502.11275))
 
