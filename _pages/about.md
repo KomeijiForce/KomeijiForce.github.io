@@ -23,7 +23,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 ### Discovery: Mining useful knowledge (texts/spans) with minimal supervision
 
 1. Text Mining: ([CoTAM@ACL2024F](https://aclanthology.org/2024.findings-acl.1/), [Incubator@EMNLP2024](https://aclanthology.org/2024.emnlp-main.220/), [TextGraft@EMNLP2024](https://aclanthology.org/2024.emnlp-main.219/))
-2. Span Extraction: ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/), [MetaIE](https://arxiv.org/abs/2404.00457))
+2. Span Extraction: ([NDD@ACL2023F](https://aclanthology.org/2023.findings-acl.694/), [X-NER@EMNLP2023F](https://aclanthology.org/2023.findings-emnlp.908/), [MetaIE](https://arxiv.org/abs/2404.00457), [Cuckoo](https://arxiv.org/abs/2502.11275))
 3. Text Representation: ([InBedder@ACL2024](https://aclanthology.org/2024.acl-long.27/))
 
 ### Parameterization (2025 Focus): Understanding LLM's mechanism in knowledge memorization/generalization. 
@@ -34,6 +34,10 @@ My research interests are knowledge discovery, parameterization, and generation 
 ### Generation: Learn LLMs to perform diverse open-ended generation following massive constraints.
 
 1. Fine-granularize role-playing faithfulness under massive constraints ([APC@NeurIPS2024](https://neurips.cc/virtual/2024/poster/94451))
+
+### Paradigm: Efficient ways to structure knowledge inside models for specific usage.
+
+1. Convert next token prediction to extraction for IE pre-training ([Cuckoo](https://arxiv.org/abs/2502.11275))
 
 Overlapped Fields
 ------
