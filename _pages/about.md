@@ -34,6 +34,7 @@ My research interests are knowledge discovery, parameterization, and generation 
 ### Generation: Learn LLMs to perform diverse open-ended generation following massive constraints.
 
 1. Fine-granularize role-playing faithfulness under massive constraints ([APC@NeurIPS2024](https://neurips.cc/virtual/2024/poster/94451))
+2. Extremely Fine-grained control (like 100 attributes) for text generation. ([UltraGen](https://arxiv.org/abs/2502.12375))
 
 ### Paradigm: Efficient learning objectives to structure knowledge inside models for specific usage.
 
