@@ -62,6 +62,10 @@ Specific Applications (Keep Updating)
 While LMs are blamed for having so many issues, no one can deny their automation of knowledge discovery, the following lists some applications of LMs:
 - **\[Automatic Knowledge Mining\]** There are generally three ways for LMs to mine knowledge. (1) Directly fine-tuned the knowledge base and take questions from the users. (2) Iterate the knowledge base and summarize the potential knowledge inside each instance. (3) Distill itself into smaller models to more efficiently interact with large-scale data ([Incubator@EMNLP2024](https://aclanthology.org/2024.emnlp-main.220/)). From my viewpoint, (3) is inevitable for efficient knowledge mining as we don't want to ask LMs "Is this instance a positive movie review" for each instance. The distilled models can be viewed as tools for LMs to use for knowledge mining, which requires the tool-using skills of LMs. Can we automate such an automatic knowledge mining system based on a single LM/collaboration of LMs?
 
+Talks
+------
+- SJTU AAA alumni talk@Shanghai Jiaotong University, Apr. 2025
+
 MISC
 ------
 ![image](https://github.com/user-attachments/assets/b94ac6b9-4ae4-433b-b090-0d7eb6c8166b)
