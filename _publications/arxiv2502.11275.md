@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest"
-collection: preprint
-venue: 'ArXiv Preprint'
+collection: publications
+venue: 'ACL 2025'
 date: 2025-2-16
 paperurl: 'https://arxiv.org/pdf/2502.11275.pdf'
 ---
