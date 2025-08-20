@@ -1,6 +1,6 @@
 ---
 title: "UltraGen: Extremely Fine-grained Controllable Generation via Attribute Reconstruction and Global Preference Optimization."
-collection: preprint
+collection: publications
 venue: 'EMNLP 2025 (Findings)'
 date: 2025-11-9
 paperurl: 'https://arxiv.org/abs/2502.12375'
