@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Letian Peng"
+title                    : "Peng Letian"
 title_separator          : "-"
-name                     : &name "Letian Peng"
+name                     : &name "Peng Letian"
 description              : &description "personal description"
 url                      : https://komeijiforce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Letian Peng"
+  name             : "Peng Letian"
   avatar           : "Myphoto_Square.jpg"
   bio              : "Ph.D. Student"
   location         : "San Diego"
