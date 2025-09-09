@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Letian's Academic Homepage ~ Here begins my voyage!"
+title: "Letian's Academic Homepage ~ ここから始めよう♪ ボクは旅に出よう♪ ~"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
+I am a 4td year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 **2023-2024:** I worked on building NLP systems with extremely weak signals from humans with collaboration from LLMs (Knowledge Discovery).
 
-**2025:** I am working on unveiling the mechanisms behind LLM's memorization, diversity, generalization, and hallucination (Knowledge Parameterization).
+**2024-2025:** I worked on unveiling the mechanisms behind LLM's memorization, diversity, generalization, and hallucination (Knowledge Parameterization).
+
+**2025-**: I am now working on fine-grained control of LLM's roles in AI4Plot, AI4Game, etc.
 
 Research Interest
 ------
