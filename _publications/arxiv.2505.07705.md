@@ -1,7 +1,7 @@
 ---
 title: "Codifying Character Logic in Role-Playing"
-collection: preprint
-venue: 'ArXiv Preprint'
+collection: publication
+venue: 'NeurIPS 2025'
 date: 2025-5-14
 paperurl: 'https://arxiv.org/abs/2505.07705'
 ---
