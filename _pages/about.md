@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4td year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
+I am a 4th-year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 **2023-2024:** I worked on building NLP systems with extremely weak signals from humans with collaboration from LLMs (Knowledge Discovery).
 
