@@ -1,7 +1,7 @@
 ---
 title: "Deriving Character Logic from Storyline as Codified Decision Trees"
-collection: Preprint
-venue: ArXiv
+collection: publications
+venue: ACL 2026
 date: 2026-1-15
 paperurl: 'https://arxiv.org/abs/2601.10080'
 ---
