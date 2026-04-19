@@ -16,7 +16,7 @@ I am a 4th-year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shan
 
 **2024-2025:** I worked on unveiling the mechanisms behind LLM's memorization, diversity, generalization, and hallucination (Knowledge Parameterization).
 
-**2025-**: I am now working on fine-grained control of LLM's roles in AI4Plot, AI4Game, etc.
+**2025-**: I am now working on role-playing and entity behavior simulation, etc.
 
 Research Interest
 ------
