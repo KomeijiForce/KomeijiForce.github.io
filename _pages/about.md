@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+_Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the **KIRAKIRA** above me and the **DOKIDOKI** within me._
+
 I am a 4th-year Ph.D. student at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). I got my B.S. degree in Computer Science at SJTU, advised by Professor [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 
 **2023-2024:** I worked on building NLP systems with extremely weak signals from humans with collaboration from LLMs (Knowledge Discovery).
